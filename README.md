@@ -2,6 +2,9 @@
 This is a News Homepage project built using HTML and CSS.
 The UI is designed to be clean, responsive, and interactive, featuring hover effects, click transitions, and a functional "Read More" button that navigates to a detailed news page.
 
+[Live Page link]( https://arshitayal.github.io/News-Homepage/)
+
+
 ## 🚀 Features
 
 ✅ **Responsive Layout**
